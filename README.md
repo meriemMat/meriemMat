@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meriemMat
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning NextJs
-- 📫 How to reach me 	matouk.miriem@gmail.com
+- 📫 You can reach me through: matouk.miriem@gmail.com
 
 <!---
 meriemMat/meriemMat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
